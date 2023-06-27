@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:toonflix/widgets/button.dart';
-import 'package:toonflix/widgets/currency_card.dart';
+import 'package:ui_challenge/widgets/button.dart';
+import 'package:ui_challenge/widgets/currency_card.dart';
 
 void main() {
   runApp(const App());
